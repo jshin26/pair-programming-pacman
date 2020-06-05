@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //check for win
     function checkForWin () {
-        if (score === 300) {
+        if (score === 330) {
             ghosts.forEach(ghost => clearInterval(ghost.timerId))
             document.removeEventListener('keyup', movePacman)
             setTimeout(function(){ alert("You have WON!"); }, 500)

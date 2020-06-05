@@ -8,7 +8,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 header {
-    margin-top: 60px;
+    margin-top: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,6 +16,9 @@ header {
     p {
         font-size: 48px;
     }
+}
+.main__btn {
+    text-decoration: none;
 }
 .btn {
     margin-top: 20px;
