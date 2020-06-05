@@ -73,8 +73,9 @@ body {
 }
 
 .pac-man {
-  background-color: yellow;
-  border-radius: 10px;
+  background-image: url("../style/student.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .daniil {
