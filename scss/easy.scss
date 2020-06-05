@@ -5,6 +5,7 @@ body {
     font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .right {
     width: 30%;
     display: flex;
@@ -30,6 +31,7 @@ body {
         }
     }
 }
+
 .grid {
     display: flex;
     flex-wrap: wrap;
@@ -41,9 +43,11 @@ body {
         height: 30px;
     }
 }
+  
+
 
 .pac-dot {
-    background-image: url('./brainStation.png');
+    background-image: url('../style/brainStation.png');
     background-position: center;
     background-size: cover;
     border: 2.5px solid white;
@@ -54,68 +58,67 @@ body {
     background-color: dodgerblue;
 }
 
-.pac-man {
-    background-color: yellow;
+.power-pellet {
+    // background-color: green;
     border-radius: 10px;
 }
 
-// ghosts 
-
 .daniil {
-    background-image: url('./Daniil.png');
+    background-image: url('../style/Daniil.png');
     background-position: center;
     background-size: cover;
 }
 
 .amy {
-    background-image: url('./Amy.png');
+    background-image: url('../style/Amy.png');
     background-position: center;
     background-size: cover;
 }
 
 .anna {
-    background-image: url('./Anna.png');
+    background-image: url('../style/Anna.png');
     background-position: center;
     background-size: cover;
 }
 
 .tiffany {
-    background-image: url('./Tiffany.png');
+    background-image: url('../style/Tiffany.png');
     background-position: center;
     background-size: cover;
 }
 
-.scared-ghost {
-    background-color: pink;
-    border: 0px;
+.pac-man {
+    background-color: yellow;
+    border-radius: 10px;
 }
 
-
-// power pellet
+.scared-ghost {
+    background-color: aquamarine;
+}
 
 .html {
-    background-image: url('./html.png');
+    background-image: url('../style/html.png');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
 }
 
 .css {
-    background-image: url('./css.png');
+    background-image: url('../style/css.png');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
 }
 
 .react {
-    background-image: url('./node.png');
+    background-image: url('../style/node.png');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
 }
 
 .javascript {
-    background-image: url('./javascript.png');
+    background-image: url('../style/javascript.png');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
