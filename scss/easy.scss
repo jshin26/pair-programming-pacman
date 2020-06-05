@@ -93,7 +93,9 @@ body {
 }
 
 .scared-ghost {
-    background-color: aquamarine;
+    background-image: url('../ea74e0818f6180c5.gif');
+    background-position: center;
+    background-size: cover;
 }
 
 .html {
@@ -122,4 +124,8 @@ body {
     background-position: center;
     background-size: cover;
     border-radius: 10px;
+}
+
+.audio {
+    margin-top: 24px;
 }
