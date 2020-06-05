@@ -1,0 +1,27 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: 1px solid black;
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.pac-dot {
+    box-sizing: border-box;
+    background-image: url(../../educate/png/brainStation.png);
+    border: 5px solid white;
+}
+
+.wall {
+    background-color: blue;
+}
+
+.boost {
+    background-color: green;
+    border-radius: 10px;
+}
