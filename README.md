@@ -22,3 +22,7 @@ A pac-man game website using pure JS, HTML, CSS
 ![03](https://user-images.githubusercontent.com/59567530/83931652-d976c400-a76b-11ea-97ec-a1350b06c925.png)
 
 ![04](https://user-images.githubusercontent.com/59567530/83931655-dda2e180-a76b-11ea-8b94-c4073218f01e.png)
+
+
+
+pure javascript pac-man resource; Ania Kubow
