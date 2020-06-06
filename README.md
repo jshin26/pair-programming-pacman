@@ -1,5 +1,7 @@
 A pac-man game website using pure JS, HTML, CSS
 
+https://brainpacman.netlify.app/
+
 
 1. Idea
 ![Screenshot from 2020-06-05 20-31-40](https://user-images.githubusercontent.com/59567530/83931603-93b9fb80-a76b-11ea-9ca0-a11146d8349d.png)
